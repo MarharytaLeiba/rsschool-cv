@@ -24,3 +24,23 @@ I believe, that my ability to learn and gain new skills will lead me on this pat
 - Git, GitHub
 - VS Code, Figma
 
+## Code example:
+
+```
+public class Solution {
+  public static boolean validPhoneNumber(String phoneNumber) {
+      char[] cStr = phoneNumber.toCharArray();
+      if(cStr[0] != '(') return false;
+      if(cStr[4] != ')') return false;
+      if(cStr[5] != ' ') return false;
+      if(cStr[9] != '-') return false;
+            
+      for(int i = 1; i < cStr.length; i++){
+         if(i != 4 && i != 5 && i != 9){
+            if(!Character.isDigit(cStr[i])) return false;
+         }
+      }
+      return true;
+  }
+}
+```
