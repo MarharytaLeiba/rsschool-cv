@@ -44,3 +44,16 @@ public class Solution {
   }
 }
 ```
+
+## Education:
+
+- Ukrainian State Academy of Railway Transport
+  - Master in Marketing
+
+## Courses:
+
+* RS School course:
+  + Java Script/Front-end. Stage 0 
+* QATestLab Training Center:
+  + The Fundamentals of Software Testing
+  
