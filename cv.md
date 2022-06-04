@@ -17,3 +17,10 @@ I am looking for positions in Frontend Development. I am looking for a company w
 At the moment I am actively studying the course "JS / FE Stage # 0 2022Q2" at the RS School and developing in this direction.
 
 I believe, that my ability to learn and gain new skills will lead me on this path to becoming a proficient Frontend Developer.
+
+## Skills and Proficiency:
+
+- HTML, CSS
+- Git, GitHub
+- VS Code, Figma
+
