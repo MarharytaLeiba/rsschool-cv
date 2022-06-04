@@ -56,4 +56,9 @@ public class Solution {
   + Java Script/Front-end. Stage 0 
 * QATestLab Training Center:
   + The Fundamentals of Software Testing
-  
+
+## Languages:
+
+- Ukrainian – native
+- Russian – native
+- English – Intermediate (B1)
