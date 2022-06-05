@@ -1,1 +1,1 @@
-https://MarharytaLeiba.github.io/rsschool-cv/cv
+https://MarharytaLeiba.github.io/rsschool-cv/
